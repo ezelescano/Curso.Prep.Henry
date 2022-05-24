@@ -1,0 +1,9 @@
+conceptos
+//Variables: son como si fueran cajitas con algun nombre especifico, en donde puedo guardar lo que quiera, para usarlo en algun momento que la necesite.
+	por ejemplo: si una variable se llama 'nombre', es muy probable que en ella guarde un nombre.
+
+//Strings: los strings son un conjunto de caracteres continuos, esto puede ser una palabra o una frase.
+//Funciones: estas son acciones que quiero realizar, cada funcion generalente tiene argumentos. Este argumento es la accion que quiero que realice esta funcion.
+Al realizar esta accion retorna el resultado de la misma, esto se llama 'return'.
+//Declaraciones if: estas declaraciones sirven para comparar o para establecer condiciones. Por ejemplo: si (if) 102 es menor que 150, quiero que pase X cosa. 
+// Valores booleanos: estos valores sirven para establecer si una condicion es verdadera (true) o falsa (false). Por ejemplo: Si 102 es menor que 150, entonces esta condicion es verdadera (true). 
