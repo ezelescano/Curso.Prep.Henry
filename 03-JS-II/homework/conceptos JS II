@@ -1,0 +1,8 @@
+conceptos JS II
+// For: El bucle 'for', sirve para hacer tareas repetitivas. En ocaciones hay que hacer una tarea 'n' cantidad de veces, con el bucle 'for' mediante ciertas condiciones lo hace. Se declara una variable, una expresion y un incremento de nuestra variable. Mientras estas condiciones se cumplen este se sigue dearrollando.
+
+//&&: Es un operador logico, y se lo denomina 'Y' o 'AND'. Evalua si dos expresiones son verdaro o falso. Si alguna de las expresiones es falsa, el resultado que arrojara, sera false.
+
+//||: Operador 'O' ('OR'), sirve para comparar dos expresiones. Con que solo de true una de ellas, el resultado va a ser true.
+
+//!: operador 'Not'('No'), este va a retornar el valor booleano opuesto.
