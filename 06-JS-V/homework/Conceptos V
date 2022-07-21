@@ -1,0 +1,6 @@
+Conceptos V
+
+// 'prototype': Habiamos considerado que los objetos son como cajas que contienen diferentes elementos pero relacionados a algo especifico. Supongamos que el Objeto diga 'Pan', las propiedades serian los ingredientes. Ahora, supongamos que tengo un objeto llamadao 'Pizza', y en las propiedades busco un ingrediente llamado 'Levadura', si esta propiedad no se ecuentra en este objeto 'Pizza' lo que hace el 'prototype' es buscar esta propiedad en otro objeto. El cual se encontraria en el objeto 'Pan'.
+
+// _Constructors_ (de Clases): Las funciones constructoras nos permite contruir objetos, al ingresarles las propiedades esto parece un objeto comun y corriente, pero no retorna nada.
+Al usar la palabra clave 'new' se crea un nuevo objeto con las propiedades del primero sin necesidad de repetir y volver a escribir todo otra vez.

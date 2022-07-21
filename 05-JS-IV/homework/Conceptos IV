@@ -1,6 +1,6 @@
 Conceptos IV
 
-// Objetos: Son similares a los 'Arrays', es como si fuera una caja en la cual se pueden guardar muchas cosas, pero relacionadas a algo. Por ejemplo: Supongamos que tenemos una caja de dija 'Pan', y dentro de esa caja se pondran los ingredientes(que serian los productos de un objeto) para realizar dicho pan. Y cada ingrediente con sus medidas.
+// Objetos: Son similares a los 'Arrays', es como si fuera una caja en la cual se pueden guardar muchas cosas, pero relacionadas a algo. Por ejemplo: Supongamos que tenemos una caja de diga 'Pan', y dentro de esa caja se pondran los ingredientes(que serian los productos de un objeto) para realizar dicho pan. Y cada ingrediente con sus medidas.
 //Propiedades: las 'propiedades' como dije en el punto anterior, serian cada ingrediente de esa caja para hacer el pan. Estos tendran diferentes valores, tantos numericos, 'string' o booleanos.
 //Metodos: Son funciones dentro de una propiedad, o sea acciones.
 //Bucle 'for...in': con los 'Arrays' usamos el bucle 'for' con el cual podemos recorrer cada elemento del mismo. En los objetos utilizamos el nucle 'for...in', que recorre cada propiedad del Objeto.
