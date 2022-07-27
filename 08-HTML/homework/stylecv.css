@@ -1,0 +1,33 @@
+img {
+	width: 250px;
+	position: fixed;
+	left: 790px;
+	top: 60px;
+}
+body {
+	background-color: lightsteelblue;
+}
+h1 {
+	color: darkred;
+}
+#yo {
+	position: fixed;
+	left: 770px;
+	top: 10px;
+	height: 280px;
+	width: 180px;
+	background-color: #7FB3D5;
+	padding: 50px;
+	border: solid;
+}
+h3 {
+	justify-content: center;
+	display: flex;
+	color: #CD6155;
+	height: 10px;
+	width: 200px;
+	background-color: #7FB3D5;
+	padding: 10px;
+	border: solid;
+
+}

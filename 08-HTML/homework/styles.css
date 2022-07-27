@@ -1,0 +1,34 @@
+body {
+	background-color: yellow;
+	background-image: url("https://image.shutterstock.com/image-vector/doodle-icon-empanada-stuffed-bread-600w-729723160.jpg");
+}
+h1 {
+	color:red;
+	position: relative;
+	left: 550px;
+}	
+h3 {
+	position: relative;
+	left: 650px;
+}
+h4 {
+	position: relative;
+	left: 600px;
+}
+img {
+	width: 400px;
+}
+#thirdDiv {
+	height: 600px;
+	width: 500px;
+	background-color: green;
+	padding: 50px;
+	border: solid;
+}
+#spanId {
+	font-size: 18px;
+	margin: 50px;
+}
+div {
+	margin: 0 auto;
+}
